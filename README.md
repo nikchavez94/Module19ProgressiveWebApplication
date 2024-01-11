@@ -11,10 +11,12 @@ Tailored for developers, J.A.T.E serves as a valuable tool for jotting down code
 User Story
 
 AS A developer
+
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 
 Acceptance Criteria
+
 GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
@@ -42,21 +44,21 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 ## Technologies Used 
-JavaScript
-NodeJS
-Babel
-Express
-IndexedDB
-Webpack+Workbox
-Mini-CSS-Extract Plugin
-Concurrently
+-JavaScript
+-NodeJS
+-Babel
+-Express
+-IndexedDB
+-Webpack+Workbox
+-Mini-CSS-Extract Plugin
+-Concurrently
 
 ## Installation and Use Instructions 
 To run this project locally:
 
-Clone or branch this repository.
-Execute npm i to install all required dependencies.
-Launch the application using npm run start.
+1. Clone or branch this repository.
+2. Execute npm i to install all required dependencies.
+3. Launch the application using npm run start.
 
 ## Heroku Link 
 https://hidden-chamber-28255-b0cb90766dfb.herokuapp.com/
